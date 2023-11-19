@@ -1,0 +1,145 @@
+.container-1{
+    margin: 25px 100px;
+    padding: 2px;
+    
+}
+
+.blue{
+     height: 15px;
+     background-color: #105cad;
+     display: block;
+     width: 1500px;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 25px;
+    margin-left: 75px;
+}
+
+.box{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: column;
+    height: 3vh;
+    margin-top: 5px;
+
+}
+
+.box-1{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.box-2{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 130px;
+}
+
+.portofolio{
+    color: #105cad;
+    
+
+}
+
+.container-2{
+   margin: 25px 100px;
+   display: flex;
+   flex-direction: column;
+   padding: 1px;
+
+}
+
+.box-a{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: column;
+    align-items: start;
+    
+    
+}
+
+h2{
+    font-size: 25px;
+    margin-top: 25px;
+
+   
+}
+
+.box-4{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    margin-left: 35px;
+    
+}
+.first-element{
+    list-style-type: none;
+}
+
+.box-5{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    height: 1vh;
+    margin-top: 3px;
+    margin-left: 20px;
+}
+
+.box-6{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    height: 7vh;
+    margin-top: 3px;
+    margin-left: 20px;
+  
+}
+
+p{
+    margin-left: 40px;
+}
+
+.container-3 p{
+    padding: 3px;
+}
+
+.skills ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+.skills strong{
+    font-size: 20px;
+}
+
+.skills ul ul{
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+h2{
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+.experience-info{
+    margin-left: 30px;
+    padding: 0;
+}
+
+.achievements{
+    margin-left: 30px;
+    padding: 0;
+}
